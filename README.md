@@ -1,4 +1,4 @@
-NFT Project / Web tech (Proceeding... soon)   
+NFT Project / Web tech
 
 <div align="left">
 	<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white" />
